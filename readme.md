@@ -46,9 +46,9 @@ Powered by Streamlit for smooth, responsive interaction.
   -------------- ----------------------------------
   **Frontend**   Streamlit
   **Language**   Python
-  **Data**       Pandas
-  **NLP**        TextBlob / Transformers / OpenAI
-  **Charts**     Plotly / Matplotlib
+  **Data**       Pandas, NumPy
+  **NLP**        Transformers, PyTorch
+  **Charts**     Matplotlib, Seaborn
 
 ## ⚙️ How It Works
 
